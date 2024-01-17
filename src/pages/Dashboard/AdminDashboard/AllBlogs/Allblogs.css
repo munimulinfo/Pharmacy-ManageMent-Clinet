@@ -1,0 +1,25 @@
+.jodit-status-bar {
+  @apply hidden !important;
+}
+
+.add-blog-form {
+  /* background-color: aqua; */
+  @apply text-gray-4 text-lg;
+}
+
+.add-blog-form input {
+  @apply w-full input input-bordered text-black  outline-none  placeholder:text-gray-6 focus:!outline-none;
+}
+.add-blog-form textarea {
+  @apply w-full input input-bordered text-black  outline-none  placeholder:text-gray-6 focus:!outline-none h-[100px];
+}
+
+.add-blog-form .date {
+  @apply w-full;
+}
+
+
+
+.jodit-wysiwyg {
+  @apply px-7;
+}

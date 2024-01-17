@@ -1,0 +1,7 @@
+.services-product-bg {
+  background-image: url("../../assets//images/services/bg-test.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
